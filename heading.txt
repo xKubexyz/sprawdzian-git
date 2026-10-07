@@ -1,1 +1,3 @@
-Aplikacja webowa
+<<<<<<< HEAD
+Nowoczesna aplikacja webowa
+>>>>>>> feature-heading
